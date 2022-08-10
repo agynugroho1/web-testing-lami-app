@@ -3,4 +3,4 @@
 ## What is LamiApp?
 lami app is a website for event planning, cultural information, and e-commerce specifically for regional merchandise.
 
-* **[LamiApp](https://https://lamiapp.netlify.app//)**
+* **[LamiApp](https://lamiapp.netlify.app/)**
